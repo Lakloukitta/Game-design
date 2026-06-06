@@ -1,0 +1,6 @@
+game-bloodhound-master
+node_modules
+.next
+out
+coverage
+package-lock.json
